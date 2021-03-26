@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+*.pickle
+*.pdf
+
+
+*.py[cod]
+*.egg
+build
+htmlcov
+/markdown_pages/_site/
+/markdown_pages/node_modules/
